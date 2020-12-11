@@ -7,4 +7,6 @@ links- https://www.youtube.com/watch?v=a_7Z7C_JCyo&t=380s
 Run-
 npm install and npm start 
 
-#1-Birthay-Reminder
+#1-Birthday-Reminder
+
+#2-Tours
