@@ -1,0 +1,29 @@
+body{
+  overflow-x: hidden;
+}
+
+.app{
+  display: flex;
+  flex-direction: row;
+  min-height: 100vh;
+  width: 90%;
+  margin: auto;
+}
+
+.left-side{
+  width: 60%;
+  padding-top: 28vh;
+}
+
+.right-side{
+  width: 40%;
+}
+
+.paragraphs{
+  opacity: 0.5;
+}
+
+.lower-section{
+  background-color: #ff8f00;
+  min-height: 100vh;
+}
